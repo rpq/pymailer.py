@@ -1,0 +1,4 @@
+SERVER = ''
+PORT = 587
+USERNAME = ''
+PASSWORD = ''
